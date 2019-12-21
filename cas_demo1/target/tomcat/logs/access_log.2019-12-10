@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [10/Dec/2019:14:44:39 +0800] "GET / HTTP/1.1" 302 - http-bio-9001-exec-1 32
+0:0:0:0:0:0:0:1 - - [10/Dec/2019:14:50:32 +0800] "GET / HTTP/1.1" 302 - http-bio-9001-exec-4 5
+0:0:0:0:0:0:0:1 - - [10/Dec/2019:14:50:44 +0800] "GET /?ticket=ST-1-1fDgwFjxqEMgAe35g6bs-cas01.example.org HTTP/1.1" 302 - http-bio-9001-exec-7 273
+0:0:0:0:0:0:0:1 - - [10/Dec/2019:14:50:44 +0800] "GET /;jsessionid=1F10BB65149A09A1E5715E804E4D54FD HTTP/1.1" 200 235 http-bio-9001-exec-8 123
